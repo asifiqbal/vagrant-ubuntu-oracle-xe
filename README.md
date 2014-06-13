@@ -15,6 +15,7 @@ Thanks to André Kelpe, Brandon Gresham, Charles Walker, Chris Thompson, Jeff Ca
 Justin Harringa, Mark Crossfield, Matthew Buckett, Richard Kolb, and Steven Hsu for various
 contributions.
 
+Another good reference is this [oracle xe on ubuntu using vagrant and puppet]
 ## Requirements
 
 * You need to have [Vagrant] installed.
@@ -104,3 +105,5 @@ and restart the database.
 [How many connections can Oracle Express Edition (XE) handle?]: http://stackoverflow.com/questions/906541/how-many-connections-can-oracle-express-edition-xe-handle
 
 [enable virtualization]: http://www.sysprobs.com/disable-enable-virtualization-technology-bios
+
+[oracle xe on ubuntu using vagrant and puppet]: http://www.andrejkoelewijn.com/blog/2012/02/28/oracle-xe-on-ubuntu-using-vagrant-and-puppet

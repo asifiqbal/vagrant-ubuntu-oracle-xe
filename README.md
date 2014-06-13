@@ -15,7 +15,7 @@ Thanks to André Kelpe, Brandon Gresham, Charles Walker, Chris Thompson, Jeff Ca
 Justin Harringa, Mark Crossfield, Matthew Buckett, Richard Kolb, and Steven Hsu for various
 contributions.
 
-Another good reference is this [oracle xe on ubuntu using vagrant and puppet]
+Another good reference is [oracle xe on ubuntu using vagrant and puppet]
 ## Requirements
 
 * You need to have [Vagrant] installed.
